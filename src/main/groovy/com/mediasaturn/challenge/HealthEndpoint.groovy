@@ -1,4 +1,4 @@
-package com.mediasaturn.challenge
+package com.opentext.challenge
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestMapping
