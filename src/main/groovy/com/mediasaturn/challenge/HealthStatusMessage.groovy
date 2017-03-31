@@ -1,4 +1,4 @@
-package com.mediasaturn.challenge
+package com.opentext.challenge
 
 /**
  * @author geroe
