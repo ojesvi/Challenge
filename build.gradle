@@ -1,4 +1,4 @@
-group 'com.mediasaturn'
+group 'com.opentext'
 
 allprojects {
     version '1.0-SNAPSHOT'
